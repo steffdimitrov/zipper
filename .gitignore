@@ -1,0 +1,4 @@
+.idea
+/vendor/
+/coverage/
+/tests/mock/dodge.zip

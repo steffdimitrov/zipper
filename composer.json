@@ -1,0 +1,30 @@
+{
+    "name": "jobs.bg/zipper",
+    "description": "This is library providing mechanism for archive (zip) files with basic password protection and encryption",
+    "type": "library",
+    "require": {
+      "php": ">=7.2",
+      "ext-zip": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.2"
+    },
+    "autoload": {
+      "psr-4": {
+        "Zipper\\": "src/"
+      }
+    },
+  "autoload-dev": {
+    "psr-4": {
+      "ZipperTest\\": "tests/"
+    }
+  },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Stefan Dimitrov",
+            "email": "stefan.dimitrov@jobs.bg"
+        }
+    ],
+    "minimum-stability": "dev"
+}
