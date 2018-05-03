@@ -6,7 +6,7 @@
 * It uses php zip (ZipArchive) library.
 
 # Examples
-For archiving files with password:
+For archivе files with password:
 #### Usage
 ```php
 $zipFile = __DIR__ . '/../../archive.zip';
