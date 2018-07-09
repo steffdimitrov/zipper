@@ -1,4 +1,4 @@
-# This is JOBS.BG Zipper library.
+# This is Zipper library.
 
 ## Description
 * It provides availability for archive (zip) files protected with password.

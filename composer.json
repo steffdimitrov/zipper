@@ -1,5 +1,5 @@
 {
-    "name": "jobs.bg/zipper",
+    "name": "steffdimitrov/zipper",
     "description": "This is library providing mechanism for archive (zip) files with basic password protection and encryption",
     "type": "library",
     "require": {
@@ -23,7 +23,7 @@
     "authors": [
         {
             "name": "Stefan Dimitrov",
-            "email": "stefan.dimitrov@jobs.bg"
+            "email": "dimitrov.webmaster@gmail.com"
         }
     ],
     "minimum-stability": "dev"
